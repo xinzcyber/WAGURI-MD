@@ -1,8 +1,6 @@
 /*
-Author : Shirokami Ryzen 
-WA : +6285174269046
-Base : Elaina-MultiDevice
-Release : 22 Nov 2022
+Author : Xinz
+Release :  24 nov 
 */
 
 import { watchFile, unwatchFile } from 'fs'
