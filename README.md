@@ -1,20 +1,20 @@
 <p align="center">
     <img src="./media/thumbnail.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
-<h1 align="center">Nao-MD ESM</h1>
+<h1 align="center">Waguri-md ESM</h1>
 
 </p>
 <p align="center">
-<a href="https://github.com/ShirokamiRyzen"><img title="Author" src="https://img.shields.io/badge/AUTHOR-ShirokamiRyzen-green.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/xinzcyber"><img title="Author" src="https://img.shields.io/badge/AUTHOR-xinzcyber-green.svg?style=for-the-badge&logo=github"></a>
 
 ##
 <p align="center">
 <a><img src="https://img.shields.io/badge/Maintaned%3F-Actively%20Developed-blue?style=flat-square"></a>
 
 ##
-[![BOT WHATSAPP](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=6285864034767&text=.menu)
-[![CHANNEL](https://img.shields.io/badge/Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VaGoqK589indDi4Am40J)
-[![ONWER](https://img.shields.io/badge/Owner%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285174269046)
+[![BOT WHATSAPP](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=6282136975082&text=.menu)
+[![CHANNEL](https://img.shields.io/badge/Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/GuyhwUfMAu6IvsxQ96LUGe?mode=wwt)
+[![ONWER](https://img.shields.io/badge/Owner%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6282189305896)
  
 
 
@@ -52,8 +52,8 @@
 
 #### Setup bot on your Machine
 ```bash
-$ git clone https://github.com/ShirokamiRyzen/Nao-MD
-$ cd Nao-MD
+$ git clone https://github.com/xinzcyber/WAGURI+MD
+$ cd waguri-md
 $ npm i
 ```
 
@@ -82,9 +82,9 @@ npm start
 [![BochilGaming](https://github.com/BochilGaming.png?size=100)](https://github.com/BochilGaming)
 [![ImYanXiao](https://github.com/ImYanXiao.png?size=100)](https://github.com/ImYanXiao)
 [![Xnuvers007](https://github.com/Xnuvers007.png?size=100)](https://github.com/Xnuvers007)
-[![ShirokamiRyzen](https://github.com/ShirokamiRyzen.png?size=100)](https://github.com/ShirokamiRyzen)
+[![xinzcyber](https://github.com/xinzcyber.png?size=100)])](https://github.com/xinzcyber)
 #### Contributor
-[![ShirokamiRyzen](https://github.com/ShirokamiRyzen.png?size=100)](https://github.com/ShirokamiRyzen)
+[![xinzcyber](https://github.com/xinzcyber.png?size=100)])](https://github.com/xinzcyber)
 [![KilerBots](https://github.com/KilerBots.png?size=100)](https://github.com/KilerBots)
 [![MythEclipse](https://github.com/MythEclipse.png?size=100)](https://github.com/MythEclipse)
 
